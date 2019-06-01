@@ -1,4 +1,4 @@
-Markdown reference
+Markdown reference (마크다운 기본 문법 사용법)
 
 **Bold** ```**text**```  
 *Emphasize* ```*text*```  
